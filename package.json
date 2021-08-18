@@ -1,0 +1,9 @@
+{
+  "name": "ac-disk-usage",
+  "version": "1.0.0",
+  "description": "Wrapper for parsing df -k command to get disk usage parameters",
+  "main": "index.js",
+  "repository": "git@ac-disk-usage.github.com:AdmiralCloud/ac-disk-usage",
+  "author": "Virginijus <virginijus.digrys@admiralcloud.com>",
+  "private": "true"
+}
